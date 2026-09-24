@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BackupCleaner/BackupCleaner/BackupCleaner.csproj" Id="1bdb5212-64f4-44f1-ad9e-0093095d5a3e" />
+  <Project Path="Configuration.UnitTests/Configuration.UnitTests.csproj" Id="a8655eb0-00ed-44f5-be75-9b80e112ea64" />
+  <Project Path="Configuration/Project/Configuration.csproj" />
+</Solution>
